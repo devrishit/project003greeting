@@ -1,0 +1,15 @@
+/home/devrishit/2023/202308/20230801/project003greeting/bin/Debug/net7.0/project003greeting
+/home/devrishit/2023/202308/20230801/project003greeting/bin/Debug/net7.0/project003greeting.deps.json
+/home/devrishit/2023/202308/20230801/project003greeting/bin/Debug/net7.0/project003greeting.runtimeconfig.json
+/home/devrishit/2023/202308/20230801/project003greeting/bin/Debug/net7.0/project003greeting.dll
+/home/devrishit/2023/202308/20230801/project003greeting/bin/Debug/net7.0/project003greeting.pdb
+/home/devrishit/2023/202308/20230801/project003greeting/obj/Debug/net7.0/project003greeting.csproj.AssemblyReference.cache
+/home/devrishit/2023/202308/20230801/project003greeting/obj/Debug/net7.0/project003greeting.GeneratedMSBuildEditorConfig.editorconfig
+/home/devrishit/2023/202308/20230801/project003greeting/obj/Debug/net7.0/project003greeting.AssemblyInfoInputs.cache
+/home/devrishit/2023/202308/20230801/project003greeting/obj/Debug/net7.0/project003greeting.AssemblyInfo.cs
+/home/devrishit/2023/202308/20230801/project003greeting/obj/Debug/net7.0/project003greeting.csproj.CoreCompileInputs.cache
+/home/devrishit/2023/202308/20230801/project003greeting/obj/Debug/net7.0/project003greeting.dll
+/home/devrishit/2023/202308/20230801/project003greeting/obj/Debug/net7.0/refint/project003greeting.dll
+/home/devrishit/2023/202308/20230801/project003greeting/obj/Debug/net7.0/project003greeting.pdb
+/home/devrishit/2023/202308/20230801/project003greeting/obj/Debug/net7.0/project003greeting.genruntimeconfig.cache
+/home/devrishit/2023/202308/20230801/project003greeting/obj/Debug/net7.0/ref/project003greeting.dll
